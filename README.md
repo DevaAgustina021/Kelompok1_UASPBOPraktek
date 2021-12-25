@@ -1,4 +1,4 @@
-# Kelompok1_UASPBOPraktek
+# Kelompok1_UASPraktekPBO
 Kelompok 1 :
 1.	Yulia Adiba			(20051214005)
 2.	Hany Fitriaruli			(20051214017)
